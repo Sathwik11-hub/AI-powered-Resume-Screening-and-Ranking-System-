@@ -1,11 +1,14 @@
-# AI-powered-Resume-Screening-and-Ranking-System-
 # AI-powered Resume Screening and Ranking System
 
 ## Introduction
 An AI-powered resume screening and ranking system automates the process of analyzing and ranking job applicants' resumes. This system enhances recruitment efficiency by reducing manual workload, minimizing bias, and ensuring consistent evaluations.
 
-## Problem Statement
-Manual resume screening is time-consuming and prone to human error. It involves inconsistencies in evaluation criteria and can be biased. Managing a large pool of applicants adds to the complexity, making it difficult for recruiters to identify the best candidates efficiently.
+Project Description:
 
-## Solution Overview
-The AI-powered resume screening system addresses these challenges by using advanced algorithms to analyze and rank resumes
+This project aims to develop an intelligent system that automates the resume screening and ranking process for job applications, leveraging the power of Artificial Intelligence and Natural Language Processing (NLP). The system will parse resumes, extract relevant information (skills, experience, education), and compare it against job descriptions to identify the most suitable candidates.
+
+Resume Parsing: Utilize Python libraries (e.g., PyPDF2, docx2txt, spaCy, NLTK) to extract text from various resume formats (PDF, DOCX, TXT). Implement named entity recognition (NER) to identify key information such as names, contact details, skills, and experience.
+
+Integration with applicant tracking systems (ATS).✔✔
+
+Develop a scoring system that assigns scores to candidates based on their skill match, experience, and education.
