@@ -12,3 +12,18 @@ Resume Parsing: Utilize Python libraries (e.g., PyPDF2, docx2txt, spaCy, NLTK) t
 Integration with applicant tracking systems (ATS).✔✔
 
 Develop a scoring system that assigns scores to candidates based on their skill match, experience, and education.
+
+
+---
+
+### ✅ Step 3: Push to GitHub
+1. Initialize git in your project folder:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+
+git remote add origin https://github.com/<your-username>/resume-ranker.git
+git branch -M main
+git push -u origin main
+
